@@ -6,12 +6,12 @@ Group assignment ( 5 members)
 
 ![Alt text](/assignmentscreenshots/Assignment1.jpg?raw=true "Optional Title")
 
-# Assignment 1
+# Assignment 2
 ## PROCESS DOCUMENTATION
 
 ![Alt text](/assignmentscreenshots/Assignment2.jpg?raw=true "Optional Title")
 
-# Assignment 1
+# Assignment 3
 ## CLASSIFICATION MODELS FOR VIBRATION DATA
 
 ![Alt text](/assignmentscreenshots/Assignment3.jpg?raw=true "Optional Title")
